@@ -64,7 +64,7 @@ Together, these two elements form an **experimental yet structured tokenomic sys
 
 ## 🏆 Conclusion  
 
-ERC-520 is an **experimental framework for next-generation NFTs**, combining the **scarcity of ERC-721 with the liquidity of ERC-20**. Accretive Tokens are **not just static collectibles—they are dynamic assets that evolve and accumulate value over time**.  
+ERC-520 is an **experimental framework** pioneering **Accretive Tokens** as a new asset class, combining the **scarcity of ERC-721 with the liquidity of ERC-20**. Accretive Tokens are **not just static collectibles—they are dynamic assets that evolve and accumulate value over time**.  
 
 With **built-in appreciation, a deflationary economic model, and creator incentives**, Accretive Tokens are designed for **long-term holders, investors, and innovators**.  
 
