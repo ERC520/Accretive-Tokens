@@ -68,7 +68,7 @@ ERC-520 is an **experimental framework for next-generation NFTs**, combining the
 
 With **built-in appreciation, a deflationary economic model, and creator incentives**, Accretive Tokens are designed for **long-term holders, investors, and innovators**.  
 
-This isn’t just another NFT—**it’s an experiment in digital ownership that appreciates, strengthens, and holds real value over time.** 🚀  
+This isn’t just another experiment—it’s the foundation for turning Accretive Tokens into a widely accepted asset class, redefining digital ownership with built-in appreciation and lasting value. 🚀  
 
 ---
 
