@@ -36,7 +36,9 @@ Together, these two elements form an **experimental yet structured tokenomic sys
 ### C. Appreciation & Deflationary Tokenomics  
 - Accretive Tokens **increase in value over time**, with an appreciation period of up to **72 years**.  
 - The **total supply of the ERC-20 valuation token is capped at 21 million**, enforcing deflationary tokenomics.  
-- The **scarcity of both NFTs and valuation tokens** ensures a sustainable ecosystem.  
+- The **scarcity of both NFTs and valuation tokens** ensures a sustainable ecosystem.
+
+<img width="897" alt="image" src="https://github.com/user-attachments/assets/cbb8cfb9-b77a-4fcc-bd7b-3d9e350aa9a3" />
 
 ### D. Creator Rewards System  
 - **Every liquidation event rewards the original creator**, ensuring ongoing incentives.  
@@ -48,8 +50,6 @@ Together, these two elements form an **experimental yet structured tokenomic sys
 - **Monthly Creator Reward:** For the first **12 months**, creators earn **40,000 valuation tokens per month** to support ecosystem development.  
 
 
-
-<img width="897" alt="image" src="https://github.com/user-attachments/assets/cbb8cfb9-b77a-4fcc-bd7b-3d9e350aa9a3" />
 
 ---
 
