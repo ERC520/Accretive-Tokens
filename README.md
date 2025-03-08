@@ -1,5 +1,7 @@
 # ERC-520: 💎 Accretive Tokens 
 
+![profile8](https://github.com/user-attachments/assets/b8e002ae-23e6-4dd5-ae8c-8d133e9f95d9)
+
 ERC-520 introduces **Accretive Tokens**, an **experimental and innovative asset class** that combines **ERC-721 NFTs with an ERC-20 valuation token**. Unlike traditional NFTs that rely on speculation, Accretive Tokens **accrue value over time** through a structured appreciation model.  
 
 Each ERC-721 NFT represents a unique digital collectible, while the ERC-20 valuation token provides **liquidity and measurable worth**. This dual-token mechanism ensures that **Accretive Tokens are not just collectibles but evolving financial assets**, pioneering a **new paradigm for NFTs with real, sustainable value growth**.  
