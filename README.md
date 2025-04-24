@@ -47,7 +47,7 @@ Together, these two elements form an **experimental yet structured tokenomic sys
 
 ### D. Creator Rewards System  
 - **Every Burn event rewards the original creator**, ensuring ongoing incentives.  
-- A **2.5% Royalty from burning ** is distributed to creators, maintaining a balanced ecosystem.  
+- A **2.5% Royalty from burning** is distributed to creators, maintaining a balanced ecosystem.  
 - This model **encourages long-term engagement and innovation**.  
 
 ### E. Creator Incentive Program  
