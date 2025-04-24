@@ -1,7 +1,5 @@
 # ERC-520: 💎 Accretive Tokens 
 
-<img src="https://github.com/user-attachments/assets/b8e002ae-23e6-4dd5-ae8c-8d133e9f95d9" width="500">
-
 ERC-520 introduces **Accretive Tokens**, an **experimental and innovative asset class** that combines **ERC-721 NFTs with an ERC-20 valuation token**. Unlike traditional NFTs, Accretive Tokens **accrue value over time** through a structured appreciation model. Just like diamonds in the real world, Accretive Tokens represent a store of value in crypto, with intrinsic worth that grows over time.
 
 Each ERC-721 NFT represents a unique digital collectible, while the ERC-20 valuation token provides **liquidity and measurable worth**. This dual-token mechanism ensures that **Accretive Tokens are not just collectibles but evolving financial assets**, pioneering a **new paradigm for NFTs with real, sustainable value growth**.  
@@ -40,7 +38,9 @@ Together, these two elements form an **experimental yet structured tokenomic sys
 - The **total supply of the ERC-20 valuation token is capped at 21 million**, enforcing deflationary tokenomics.  
 - The **scarcity of both NFTs and valuation tokens** ensures a sustainable ecosystem.
 
-<img width="897" alt="image" src="https://github.com/user-attachments/assets/cbb8cfb9-b77a-4fcc-bd7b-3d9e350aa9a3" />
+
+<img width="771" alt="Screenshot 2025-04-25 at 6 31 26 AM" src="https://github.com/user-attachments/assets/8cc0a399-4546-48e5-a8cf-0f88c20e2c7a" />
+<img width="430" alt="Screenshot 2025-04-25 at 6 34 17 AM" src="https://github.com/user-attachments/assets/e956bea0-8dfb-48b6-a321-fda23d1c8678" />
 
 ### D. Creator Rewards System  
 - **Every liquidation event rewards the original creator**, ensuring ongoing incentives.  
