@@ -39,8 +39,11 @@ Together, these two elements form an **experimental yet structured tokenomic sys
 - Accretive Tokens **increase in value over time**, with an appreciation period of up to **72 years**.  
 - The **total supply of the ERC-20 valuation token is capped at 21 million**, enforcing deflationary tokenomics.  
 - The **scarcity of both NFTs and valuation tokens** ensures a sustainable ecosystem.
+  
+<img width="430" alt="Screenshot 2025-04-25 at 6 34 17 AM" src="https://github.com/user-attachments/assets/a9a0b59f-f3e7-4b32-9ff7-d841eb62a9f2" />
 
-<img width="897" alt="image" src="https://github.com/user-attachments/assets/cbb8cfb9-b77a-4fcc-bd7b-3d9e350aa9a3" />
+<img width="771" alt="Screenshot 2025-04-25 at 6 31 26 AM" src="https://github.com/user-attachments/assets/740538d4-f6ea-4101-8cb9-1a704bbffc9a" />
+
 
 ### D. Creator Rewards System  
 - **Every liquidation event rewards the original creator**, ensuring ongoing incentives.  
@@ -58,7 +61,7 @@ Together, these two elements form an **experimental yet structured tokenomic sys
 ## 🎮 Use Cases and Benefits  
 
 ✅ **Gamified Asset Marketplaces** – ERC-520 enables **NFTs with real liquidity and appreciation**, ideal for gaming ecosystems.  
-✅ **Long-Term Investment Asset** – A **72-year appreciation model** aligns with wealth-building strategies.  
+✅ **Long-Term Investment Asset** – A **21-year appreciation model** aligns with wealth-building strategies.  
 ✅ **Deflationary Tokenomics** – A **fixed-supply valuation token** ensures **price stability and reduced inflation risks**.  
 ✅ **Incentivized Creator Economy** – Creators earn **continuous rewards** through liquidation events.  
 
