@@ -41,6 +41,7 @@ Together, these two elements form an **experimental yet structured tokenomic sys
 - The **scarcity of both NFTs and valuation tokens** ensures a sustainable ecosystem.
   
 <img width="771" alt="Screenshot 2025-04-25 at 6 31 26 AM" src="https://github.com/user-attachments/assets/8cc3201d-9a20-474f-9fec-9bfa240122c5" />
+
 <img width="430" alt="Screenshot 2025-04-25 at 6 34 17 AM" src="https://github.com/user-attachments/assets/dd171dc7-3322-4e93-bcf6-e46871ee073d" />
 
 
@@ -60,7 +61,7 @@ Together, these two elements form an **experimental yet structured tokenomic sys
 ## 🎮 Use Cases and Benefits  
 
 ✅ **Gamified Asset Marketplaces** – ERC-520 enables **NFTs with real liquidity and appreciation**, ideal for gaming ecosystems.  
-✅ **Long-Term Investment Asset** – A **72-year appreciation model** aligns with wealth-building strategies.  
+✅ **Long-Term Investment Asset** – A **21-year appreciation model** aligns with wealth-building strategies.  
 ✅ **Deflationary Tokenomics** – A **fixed-supply valuation token** ensures **price stability and reduced inflation risks**.  
 ✅ **Incentivized Creator Economy** – Creators earn **continuous rewards** through liquidation events.  
 
