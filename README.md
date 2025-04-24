@@ -29,14 +29,14 @@ Together, these two elements form an **experimental yet structured tokenomic sys
 - Each tier affects the **rarity, base value, and appreciation mechanics**.  
 - Only **520 NFTs** will ever be created, ensuring exclusivity.  
 
-### B. Liquidity and Valuation Mechanism  
-- Holders can **liquidate** their NFTs into ERC-20 valuation tokens.  
-- Liquidation considers two core value components:  
+### B. Burn and Valuation Mechanism  
+- Holders can **BURN** their NFTs into ERC-20 valuation tokens.  
+- Buring considers two core value components:  
   1. **Base Value** – The original assigned value of the NFT at minting.  
-  2. **Appreciation Value** – The accrued increase in value over time, following a predefined model.  
+  2. **Accretive Value** – The accrued increase in value over time, following a predefined model.  
 
-### C. Appreciation & Deflationary Tokenomics  
-- Accretive Tokens **increase in value over time**, with an appreciation period of up to **72 years**.  
+### C. Accretive & Deflationary Tokenomics  
+- Accretive Tokens **increase in value over time**, with an appreciation period of up to **21 years**.  
 - The **total supply of the ERC-20 valuation token is capped at 21 million**, enforcing deflationary tokenomics.  
 - The **scarcity of both NFTs and valuation tokens** ensures a sustainable ecosystem.
   
@@ -46,8 +46,8 @@ Together, these two elements form an **experimental yet structured tokenomic sys
 
 
 ### D. Creator Rewards System  
-- **Every liquidation event rewards the original creator**, ensuring ongoing incentives.  
-- A **portion of the liquidation value** is distributed to creators, maintaining a balanced ecosystem.  
+- **Every Burn event rewards the original creator**, ensuring ongoing incentives.  
+- A **2.5% Royalty from burning ** is distributed to creators, maintaining a balanced ecosystem.  
 - This model **encourages long-term engagement and innovation**.  
 
 ### E. Creator Incentive Program  
