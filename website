@@ -1,0 +1,168 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  
+  
+  <!-- Essential Open Graph meta tags -->
+    <meta property="og:title" content="ERC-520 Accretive Token" />
+    <meta property="og:description" content="Accretive assets, like diamonds..." />
+    <meta property="og:image" content="https://erc520.org/erc520-background.webp" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://ERC520.org" />
+    
+    <!-- Twitter (optional, won't affect WhatsApp/Telegram) -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="ERC-520 Accretive Token" />
+    <meta name="twitter:description" content="Accretive assets, like diamonds..." />
+    <meta name="twitter:image" content="https://erc520.org/erc520-background.webp" />
+
+
+
+
+  <title>ERC-520: Accretive Tokens</title>
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+  <style>
+    :root {
+      --bg-color: #ffffff;
+      --text-color: #000000;
+      --button-bg: #000000;
+      --button-text: #ffffff;
+    }
+
+    body.dark {
+      --bg-color: #0e0e0e;
+      --text-color: #ffffff;
+      --button-bg: #ffffff;
+      --button-text: #000000;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg-color);
+      color: var(--text-color);
+      font-family: 'Roboto Mono', monospace;
+      transition: background 0.4s, color 0.4s;
+    }
+
+    .container {
+      padding: 4rem 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    .session {
+      opacity: 0;
+      transform: translateY(40px);
+      transition: all 0.8s ease-in-out;
+      margin-bottom: 3rem;
+    }
+
+    .session.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    h1, h2 {
+      color: var(--text-color);
+    }
+
+    p {
+      line-height: 1.6;
+    }
+
+    .theme-toggle {
+      position: fixed;
+      top: 1rem;
+      right: 1rem;
+      background: var(--button-bg);
+      border: none;
+      color: var(--button-text);
+      padding: 0.5rem 1rem;
+      cursor: pointer;
+      font-weight: bold;
+      border-radius: 5px;
+      transition: background 0.4s, color 0.4s;
+    }
+
+    a {
+      color: var(--text-color);
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <button class="theme-toggle" onclick="toggleTheme()">Dark</button>
+  <div class="container">
+    <div class="session" id="intro">
+      <p style="text-align: center; margin-top: 1rem;"><em>Diamonds shine through time — immutable and deflationary.</em></p>
+    </div>
+
+    <div class="session" id="section1">
+      <h1>ERC-520: Accretive Tokens</h1>
+      <p>ERC-520 defines a new Ethereum standard for Accretive Tokens—fusing the uniqueness of ERC-721 NFTs with the liquidity of ERC-20 valuation tokens. Inspired by the structure of diamond grading, it represents a new class of crypto-assets designed to appreciate in value over time.</p>
+    </div>
+
+    <div class="session" id="section2">
+      <h2>Diamond-Grade Scarcity</h2>
+      <p>Modeled after the five classes of scarcity, ERC-520 creates a fixed supply of 520 genesis NFTs. Each token is engineered with balance between rarity and value, mirroring the exclusivity and appreciation qualities of real-world diamonds.</p>
+    </div>
+
+    <div class="session" id="section3">
+      <h2>Fractional Ownership</h2>
+      <p>Each Accretive Token can be fractionalized into ERC-20 tokens, empowering shared ownership and greater liquidity—opening doors to broader accessibility without compromising scarcity.</p>
+    </div>
+
+    <div class="session" id="section4">
+      <h2>Sustainable Value Growth</h2>
+      <p>ERC-520 features a deflection mechanism that intelligently distributes value within the system. This reinforces a stable and appreciating token economy, where long-term holders benefit from structural growth.</p>
+    </div>
+
+    <div class="session" id="section5">
+      <h2>Immutable Like Diamonds</h2>
+      <img src="./erc520-background.webp" alt="Diamond Theme" style="width: 100%; border-radius: 8px; margin-top: 1rem;" />
+      <p><em>Diamonds are immutable and deflationary — Accretive Tokens reflect this permanence and scarcity in the digital realm.</em></p>
+    </div>
+
+    <div class="session" id="section6">
+      <h2>Genesis & Contributors</h2>
+      <p><strong>Created in 2024 by:</strong><br>
+      Can Chan<br>x: 
+      <a href="https://x.com/canmasu" target="_blank">@canmasu</a><br>
+      <code>0xab49...23f0</code></p>
+
+      <p><strong>Co-developed by:</strong><br>
+      Hiroshi Tatenokawa<br>
+      <code>0x23fB57C75BE13Cd57a2F4D42a9594110B802c3fc</code></p>
+    </div>
+
+    <div class="session" id="section7">
+      <h2>Explore the Standard</h2>
+      <p>ERC-520 is a visionary protocol, shaping how digital value is represented and scaled. For technical details and contributions, visit the official GitHub repository:</p>
+      <p><a href="https://github.com/ERC520/Accretive-Tokens" target="_blank">ERC-520 GitHub Repository</a></p>
+    </div>
+  </div>
+
+  <script>
+    const sessions = document.querySelectorAll('.session');
+    let delay = 0;
+    sessions.forEach((section, index) => {
+      setTimeout(() => {
+        section.classList.add('visible');
+      }, delay);
+      delay += 800;
+    });
+
+    function toggleTheme() {
+      const body = document.body;
+      const button = document.querySelector('.theme-toggle');
+      body.classList.toggle('dark');
+      button.textContent = body.classList.contains('dark') ? 'Day' : 'Dark';
+    }
+  </script>
+</body>
+</html>
