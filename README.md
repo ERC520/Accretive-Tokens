@@ -51,8 +51,8 @@ Together, these two elements form an **experimental yet structured tokenomic sys
 - This model **encourages long-term engagement and innovation**.  
 
 ### E. Creator Incentive Program  
-- **Go-Live Reward:** Upon launch, creators receive **40,000 valuation tokens** as an initial incentive.  
-- **Monthly Creator Reward:** For the first **12 months**, creators earn **40,000 valuation tokens per month** to support ecosystem development.  
+- **Go-Live Reward:** Upon launch, creators receive **52,000 valuation tokens** as an initial incentive.  
+- **Monthly Creator Reward:** For the first **12 months**, creators earn **52,000 valuation tokens per month** to support ecosystem development.  
 
 
 
