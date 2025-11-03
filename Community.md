@@ -1,4 +1,4 @@
-# Airdrop Exchange  
+# Community  
 
 Welcome, creators and OGs!  
 
