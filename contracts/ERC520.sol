@@ -44,7 +44,7 @@ import "./accretiveToken.sol";
 contract ERC520 is ERC721, ReentrancyGuard {
 
     // Connect with ERC520.org and get featured 
-    address public constant PLATFORM = 0xEc134D437173FdaE507E05c69F249a42352Efe62;
+    address public constant PLATFORM = 0xBEa2defacF004A7867ebD6807ce55c9B4de6C7bD;
     uint256 public constant CLAIM_INTERVAL = 4147200;            // arbitrum, montly 60*60*24*30/0.625 = 4,147,200
     
     uint256 public constant INITIAL_RESERVED = 2_020_000 * 1e18; // 1_500_000 LP + 520,000 Creator incentive 
