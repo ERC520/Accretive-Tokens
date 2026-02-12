@@ -76,7 +76,36 @@ With **built-in appreciation, a deflationary economic model, and creator incenti
 This isn’t just another experiment—it’s the foundation for turning Accretive Tokens into a widely accepted asset class, redefining digital ownership with built-in appreciation and lasting value. 🚀  
 
 ---
+## 🤝 Support & Contribute
 
+The **ERC-520 Foundation** is committed to building an **open-source, decentralized future** for Accretive Tokens. This initiative is fully community-driven, with all development, standards, and innovations released under permissive open-source licenses for the benefit of the broader Ethereum ecosystem.
+
+By contributing, you help shape a new asset class that bridges the uniqueness of NFTs with the fluidity of fungible tokens—promoting true digital scarcity, long-term value accretion, and inclusive ownership in a decentralized model.
+
+### Ways to Contribute
+
+- **Code & Development**: Review, test, or improve the ERC-520 smart contracts, tooling, or documentation. Submit pull requests on the official GitHub repository.
+- **Ideas & Feedback**: Propose enhancements, new use cases, or integrations via GitHub issues or discussions.
+- **Documentation & Education**: Help write guides, tutorials, or translations to make Accretive Tokens accessible to more developers and creators.
+- **Community Building**: Spread the word, create content, or build projects using ERC-520 to demonstrate its potential.
+- **Financial Support**: Voluntary contributions sustain ongoing development, audits, ecosystem grants, and innovation.
+
+All contributions—big or small—are valued and help advance a truly decentralized standard.
+
+### Support the ERC-520 Foundation
+
+Direct contributions to the ERC-520 Foundation and platform can be sent to the official address:
+
+**Ethereum Address**: `0xBEa2defacF004A7867ebD6807ce55c9B4de6C7bD`
+
+These funds support protocol maintenance, security audits, community incentives, and further research into accretive mechanisms.
+
+> *Contributions to ERC520.org help sustain development and ongoing innovation.*  
+> *If you fork this repository and choose to contribute, please add your details to support.md so we can acknowledge and recognize community supporters.*
+
+Join us in pioneering the next evolution of digital assets. Together, we can establish Accretive Tokens as a cornerstone of decentralized ownership. 🌟
+
+For more details, visit [ERC520.org](https://erc520.org) or the GitHub repository.
 
 ## 🤝 Support & Contribute
 
